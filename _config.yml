@@ -24,13 +24,13 @@ repository               : "hmwusudo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "None"
+  name             : "Hsiu-Min Wu"
+  pronouns         : "he/him"  
+  bio              : "Physics Masters graduate with a solid optical background."
+  location         : "Amsterdam, The Netherlands"
+  employer         : #"None"
   uri              : # URL
-  email            : "hsiuminwunl@gmail.com"  
+  email            : #"hsiuminwunl@gmail.com"  
 
 
 # Site Settings
